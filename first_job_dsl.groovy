@@ -1,4 +1,4 @@
-job("First job") {
+job("First job DSL") {
 	description("Moj pierwszy build")
 	keepDependencies(false)
 	scm {
